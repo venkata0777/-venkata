@@ -1,2 +1,2 @@
 # -venkata
-this my frist get reposithory
+this my frist git reposithory
